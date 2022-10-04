@@ -1,5 +1,5 @@
 
-Implementando un Mapa Ordenado (TreeMap)
+Implementando una Cola con Priridad (Montículo)
 =====
 
 ---
